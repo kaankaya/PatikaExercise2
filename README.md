@@ -11,3 +11,4 @@ Ardından 2. bir kontrol yapısıyla girilen sayının çift mi yoksa tek mi old
 #Kurulum
 -) git clone https://github.com/kaankaya/PatikaExercise2.git
  
+![Ekran Alıntısı](https://github.com/user-attachments/assets/a2be69b8-b10e-490d-9a51-9b2b39fd4d00)
